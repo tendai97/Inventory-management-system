@@ -1,0 +1,79 @@
+
+	<link rel="stylesheet" href="../jquery.treeview.css" />
+    <link rel="stylesheet" href="../red-treeview.css" />
+	<link rel="stylesheet" href="screen.css" />
+	
+	<script src="../lib/jquery.js" type="text/javascript"></script>
+	<script src="../lib/jquery.cookie.js" type="text/javascript"></script>
+	<script src="../jquery.treeview.js" type="text/javascript"></script>
+	
+	<script type="text/javascript">
+		$(function() {
+			$("#browser").treeview();
+		});
+	</script>
+	
+	<p id="pageTitle">{$operationString} Group</p>
+
+
+<form action="do.files.php?op={$_ENGINE.operation}&id={$file.id}" method="post" id="fileform" action="target.php" class="detailForm" enctype="multipart/form-data">
+
+	<div class="clear"></div><br />
+
+	
+	
+	<div class="boxField">
+		<label>File Name</label>
+		<input type="file" class="_inputStandard large" value="{$file.filename}" name="filename" maxlength="30" id="filename" readonly>
+	</div>
+		<input type="hidden" class="_inputStandard large" value="{$file.filename}" name="oldfilename" maxlength="30" readonly>
+	<div class="clear"></div>
+
+	{if $_ENGINE.operation ne "I"}
+
+	<div class="boxUtente">
+		<strong>Created</strong><br />
+		{$file.insU} {$file.insdate}
+	</div>
+	<div class="boxUtente">
+		<strong>Last Update</strong><br />
+		{$file.updU} {$file.upddate}
+	</div>
+
+	<div class="clear"></div>
+	{/if}
+
+	
+	<div id="main">
+
+	<h4>Sample 1 - default</h4>
+	<ul id="browser" class="filetree">
+		<li><img src="../images/folder.gif" /> 123</span>
+			<ul>
+				<li>blabla <img src="../images/file.gif" /></li>
+			</ul>
+		</li>
+		<li><img src="../images/folder.gif" />
+			<ul>
+				<li><img src="../images/folder.gif" />
+					<ul id="folder21">
+						<li><img src="../images/file.gif" /> more text</li>
+						<li>and here, too<img src="../images/file.gif" /></li>
+					</ul>
+				</li>
+				<li><img src="../images/file.gif" /></li>
+			</ul>
+		</li>
+		<li class="closed">this is closed! <img src="../images/folder.gif" />
+			<ul>
+				<li><img src="../images/file.gif" /></li>
+			</ul>
+		</li>
+		<li><img src="../images/file.gif" /></li>
+	</ul>
+
+	<br/>
+	<input onclick="window.parent.startProgress(); return true;" type="submit" value="Upload!" class="submit">
+</div>
+
+</form>

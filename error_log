@@ -1,0 +1,369 @@
+[30-Jun-2016 12:40:26 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[30-Jun-2016 13:02:15 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/asset_group_admin.php on line 57
+[30-Jun-2016 13:02:15 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/asset_group_admin.php on line 119
+[05-Jul-2016 14:56:09 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[05-Jul-2016 14:56:09 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[05-Jul-2016 14:56:09 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[05-Jul-2016 14:56:22 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[05-Jul-2016 14:56:22 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[05-Jul-2016 14:56:22 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[05-Jul-2016 14:56:31 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[05-Jul-2016 14:56:31 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[05-Jul-2016 14:56:31 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[05-Jul-2016 14:57:24 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/asset_group.php on line 60
+[05-Jul-2016 14:57:24 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/asset_group.php on line 135
+[15-Aug-2016 23:00:49 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/asset_group_admin.php on line 57
+[15-Aug-2016 23:00:49 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/asset_group_admin.php on line 119
+[16-Aug-2016 15:54:05 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/asset_group_admin.php on line 57
+[16-Aug-2016 15:54:05 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/asset_group_admin.php on line 119
+[16-Aug-2016 15:54:53 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[16-Aug-2016 15:54:53 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[16-Aug-2016 15:54:53 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[16-Aug-2016 15:54:59 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[16-Aug-2016 15:54:59 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[16-Aug-2016 15:54:59 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[16-Aug-2016 15:55:17 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[16-Aug-2016 15:55:17 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[16-Aug-2016 15:55:17 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[19-Aug-2016 11:40:05 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/asset_group_admin.php on line 57
+[19-Aug-2016 11:40:05 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/asset_group_admin.php on line 119
+[19-Aug-2016 11:47:05 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/asset_group_admin.php on line 57
+[19-Aug-2016 11:47:05 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/asset_group_admin.php on line 119
+[19-Aug-2016 11:47:54 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[19-Aug-2016 11:47:54 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[19-Aug-2016 11:47:54 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[19-Aug-2016 11:48:12 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/asset_group_admin.php on line 57
+[19-Aug-2016 11:48:12 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/asset_group_admin.php on line 119
+[19-Aug-2016 16:22:03 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/recon.php on line 52
+[20-Aug-2016 10:16:59 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[20-Aug-2016 10:28:08 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/recon.php on line 52
+[20-Aug-2016 10:30:24 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[20-Aug-2016 10:32:54 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[20-Aug-2016 10:33:16 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[20-Aug-2016 10:42:59 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[20-Aug-2016 10:50:59 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[20-Aug-2016 10:51:16 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[20-Aug-2016 10:51:32 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[20-Aug-2016 10:57:11 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[20-Aug-2016 10:59:38 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[20-Aug-2016 17:56:18 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[20-Aug-2016 17:57:48 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[20-Aug-2016 17:59:35 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[20-Aug-2016 18:02:49 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[21-Aug-2016 18:10:00 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[21-Aug-2016 20:58:51 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[21-Aug-2016 21:09:52 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[21-Aug-2016 21:10:32 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[21-Aug-2016 21:10:50 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[22-Aug-2016 15:28:01 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[22-Aug-2016 15:28:41 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[22-Aug-2016 17:04:35 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[22-Aug-2016 17:14:07 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[22-Aug-2016 17:15:34 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[24-Aug-2016 20:42:07 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[24-Aug-2016 21:11:02 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[24-Aug-2016 21:11:23 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[24-Aug-2016 21:29:50 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[24-Aug-2016 23:26:51 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[24-Aug-2016 23:32:09 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[24-Aug-2016 23:34:18 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[24-Aug-2016 23:35:03 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[29-Aug-2016 07:04:11 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[29-Aug-2016 07:04:31 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[29-Aug-2016 07:04:51 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[29-Aug-2016 07:06:08 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[29-Aug-2016 07:06:33 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[08-Sep-2016 11:27:52 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[08-Sep-2016 11:27:52 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 124
+[08-Sep-2016 11:28:11 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[08-Sep-2016 11:28:11 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 124
+[08-Sep-2016 11:28:15 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[08-Sep-2016 11:28:15 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 124
+[08-Sep-2016 11:28:26 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[08-Sep-2016 11:28:26 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 124
+[08-Sep-2016 12:10:38 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[08-Sep-2016 12:23:43 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[08-Sep-2016 12:29:44 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[08-Sep-2016 12:49:09 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[08-Sep-2016 12:49:47 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[08-Sep-2016 12:50:52 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[08-Sep-2016 16:51:17 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[08-Sep-2016 17:33:17 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 17:33:17 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 17:33:17 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 17:33:23 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 17:33:23 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 17:33:23 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 17:33:47 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 17:33:47 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 17:33:47 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 17:41:22 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 17:41:22 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 17:41:22 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 17:41:25 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 17:41:25 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 17:41:25 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[08-Sep-2016 21:14:08 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[08-Sep-2016 21:37:44 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[08-Sep-2016 21:38:15 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 00:44:42 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 20:43:14 Africa/Harare] PHP Warning:  include(asset_type_admin.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[14-Sep-2016 20:43:14 Africa/Harare] PHP Warning:  include(asset_type_admin.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[14-Sep-2016 20:43:14 Africa/Harare] PHP Warning:  include(): Failed opening 'asset_type_admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[14-Sep-2016 20:43:56 Africa/Harare] PHP Warning:  include(asset_type_admin.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[14-Sep-2016 20:43:56 Africa/Harare] PHP Warning:  include(asset_type_admin.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[14-Sep-2016 20:43:56 Africa/Harare] PHP Warning:  include(): Failed opening 'asset_type_admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[14-Sep-2016 20:46:33 Africa/Harare] PHP Warning:  include(asset_type_admin.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[14-Sep-2016 20:46:33 Africa/Harare] PHP Warning:  include(asset_type_admin.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[14-Sep-2016 20:46:33 Africa/Harare] PHP Warning:  include(): Failed opening 'asset_type_admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[14-Sep-2016 20:55:26 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[14-Sep-2016 20:55:45 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 20:56:19 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 20:56:46 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[14-Sep-2016 20:57:03 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[14-Sep-2016 20:58:56 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:00:43 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:04:23 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:04:33 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:04:54 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:05:52 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:06:26 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:08:37 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:15:39 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[14-Sep-2016 21:16:58 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:17:29 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:18:04 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:18:32 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:19:37 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:20:03 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:20:07 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:20:20 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:21:14 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:25:14 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[14-Sep-2016 21:25:40 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 05:40:58 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 05:40:58 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 05:40:58 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 05:41:10 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 05:41:10 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 05:41:10 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 05:41:15 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 05:41:15 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 05:41:15 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 05:43:07 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 06:08:35 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 09:07:58 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 09:07:58 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 09:07:58 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 09:08:11 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 09:08:11 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 09:08:11 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 09:08:15 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 09:08:15 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 09:08:15 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 161
+[15-Sep-2016 11:18:20 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 11:19:55 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 11:21:40 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[15-Sep-2016 11:22:49 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 11:24:54 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/recon.php on line 52
+[15-Sep-2016 12:19:53 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[15-Sep-2016 12:34:19 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 12:35:07 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 12:38:10 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 12:40:30 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 12:48:49 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 13:17:25 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/recon.php on line 52
+[15-Sep-2016 13:18:56 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 13:19:49 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 13:19:52 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 13:28:28 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 13:29:20 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 13:32:53 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 13:37:11 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[15-Sep-2016 13:39:05 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 13:39:55 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 13:42:10 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 13:45:32 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 13:45:36 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 13:46:29 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 14:22:19 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 14:22:57 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 14:27:37 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 14:36:55 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 18:25:49 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 18:28:19 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[15-Sep-2016 18:32:06 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 18:32:10 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 18:34:27 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[15-Sep-2016 22:13:04 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/admin_asset.php on line 60
+[22-Sep-2016 05:52:00 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[22-Sep-2016 05:52:55 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[22-Sep-2016 06:00:47 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[22-Sep-2016 06:29:47 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[22-Sep-2016 06:55:15 Africa/Harare] PHP Parse error:  syntax error, unexpected '"' readonly"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/wwforgzw/public_html/portal/wwf/dispose.php on line 49
+[22-Sep-2016 21:34:13 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[23-Sep-2016 16:05:26 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[24-Sep-2016 10:42:31 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 202
+[24-Sep-2016 10:42:31 Africa/Harare] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 202
+[24-Sep-2016 10:42:31 Africa/Harare] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 202
+[26-Sep-2016 15:37:47 Africa/Harare] PHP Warning:  include(user.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 202
+[26-Sep-2016 15:37:47 Africa/Harare] PHP Warning:  include(user.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 202
+[26-Sep-2016 15:37:47 Africa/Harare] PHP Warning:  include(): Failed opening 'user.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 202
+[26-Sep-2016 16:12:35 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:12:35 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:12:35 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:12:35 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:12:35 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:13:07 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:13:07 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:13:07 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:13:07 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:13:07 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:18:10 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:18:10 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:18:10 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:18:10 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:18:10 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:18:21 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:18:21 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:18:21 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:18:21 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:18:21 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:20:38 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:20:38 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:20:38 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:20:38 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:20:38 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:27:28 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:27:28 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:27:28 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:27:28 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:27:28 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 59
+[26-Sep-2016 16:28:54 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:28:54 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:28:54 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:28:54 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:28:54 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 59
+[26-Sep-2016 16:29:14 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:29:14 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:29:14 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:29:14 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:29:14 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 59
+[26-Sep-2016 16:30:53 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:30:53 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:30:53 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:30:53 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 56
+[26-Sep-2016 16:30:53 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 59
+[26-Sep-2016 16:40:31 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:40:31 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:40:31 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:40:31 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:40:31 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 61
+[26-Sep-2016 16:46:28 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:46:28 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:46:28 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:46:28 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:46:28 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 62
+[26-Sep-2016 16:47:17 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:47:17 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:47:17 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:47:17 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:47:17 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 62
+[26-Sep-2016 16:48:05 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:48:05 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:48:05 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:48:05 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:48:05 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 64
+[26-Sep-2016 16:49:16 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:49:16 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:49:16 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:49:16 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:49:16 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 65
+[26-Sep-2016 16:50:53 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:50:53 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:50:53 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:50:53 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:50:53 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 65
+[26-Sep-2016 16:51:40 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:51:40 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:51:40 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:51:40 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:51:40 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 65
+[26-Sep-2016 16:52:00 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:52:00 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:52:00 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:52:00 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 58
+[26-Sep-2016 16:52:00 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 65
+[26-Sep-2016 16:54:13 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:54:13 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:54:13 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:54:13 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:54:13 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 67
+[26-Sep-2016 16:55:07 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:55:07 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:55:07 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:55:07 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:55:07 Africa/Harare] PHP Fatal error:  Call to undefined function sendemail() in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 67
+[26-Sep-2016 16:56:15 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:56:15 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:56:15 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:56:15 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:58:30 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:58:30 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:58:30 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 16:58:30 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:03:57 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:03:57 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:03:57 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:03:57 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:06:22 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:06:22 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:06:22 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:06:22 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:07:04 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:07:04 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:07:04 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:07:04 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:14:37 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:14:37 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:14:37 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:14:37 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:15:04 Africa/Harare] PHP Warning:  Division by zero in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:15:04 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:15:04 Africa/Harare] PHP Warning:  include(php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[26-Sep-2016 17:15:04 Africa/Harare] PHP Warning:  include(): Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/allocate.php on line 66
+[27-Sep-2016 13:44:31 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[27-Sep-2016 14:36:39 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[27-Sep-2016 14:54:08 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[28-Sep-2016 16:26:30 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/filtered_assets.php on line 88
+[28-Sep-2016 17:39:38 Africa/Harare] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwforgzw/public_html/portal/wwf/assert_admin.php on line 59
+[06-Oct-2016 12:45:44 Africa/Harare] PHP Warning:  include(alocate.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 202
+[06-Oct-2016 12:45:44 Africa/Harare] PHP Warning:  include(alocate.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf/index.php on line 202
+[06-Oct-2016 12:45:44 Africa/Harare] PHP Warning:  include(): Failed opening 'alocate.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf/index.php on line 202
+[14-Nov-2016 07:31:16 Africa/Harare] PHP Warning:  include(do.leave.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[14-Nov-2016 07:31:16 Africa/Harare] PHP Warning:  include(do.leave.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[14-Nov-2016 07:31:16 Africa/Harare] PHP Warning:  include(): Failed opening 'do.leave.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[14-Nov-2016 07:36:14 Africa/Harare] PHP Warning:  include(do.leave.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[14-Nov-2016 07:36:14 Africa/Harare] PHP Warning:  include(do.leave.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[14-Nov-2016 07:36:14 Africa/Harare] PHP Warning:  include(): Failed opening 'do.leave.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[14-Nov-2016 07:36:34 Africa/Harare] PHP Warning:  include(do.leave.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[14-Nov-2016 07:36:34 Africa/Harare] PHP Warning:  include(do.leave.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[14-Nov-2016 07:36:34 Africa/Harare] PHP Warning:  include(): Failed opening 'do.leave.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[14-Nov-2016 07:41:35 Africa/Harare] PHP Warning:  include(do.leave.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[14-Nov-2016 07:41:35 Africa/Harare] PHP Warning:  include(do.leave.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[14-Nov-2016 07:41:35 Africa/Harare] PHP Warning:  include(): Failed opening 'do.leave.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[14-Nov-2016 10:27:49 Africa/Harare] PHP Warning:  include(dept_structure.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[14-Nov-2016 10:27:49 Africa/Harare] PHP Warning:  include(dept_structure.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[14-Nov-2016 10:27:49 Africa/Harare] PHP Warning:  include(): Failed opening 'dept_structure.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[15-Nov-2016 06:59:13 Africa/Harare] PHP Warning:  include(leave_type_edit.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[15-Nov-2016 06:59:13 Africa/Harare] PHP Warning:  include(leave_type_edit.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[15-Nov-2016 06:59:13 Africa/Harare] PHP Warning:  include(): Failed opening 'leave_type_edit.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[15-Nov-2016 15:32:46 Africa/Harare] PHP Warning:  include(dept_structure.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[15-Nov-2016 15:32:46 Africa/Harare] PHP Warning:  include(dept_structure.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[15-Nov-2016 15:32:46 Africa/Harare] PHP Warning:  include(): Failed opening 'dept_structure.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[15-Nov-2016 18:49:49 Africa/Harare] PHP Warning:  include(leave_type_edit.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[15-Nov-2016 18:49:49 Africa/Harare] PHP Warning:  include(leave_type_edit.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[15-Nov-2016 18:49:49 Africa/Harare] PHP Warning:  include(): Failed opening 'leave_type_edit.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[15-Nov-2016 18:50:01 Africa/Harare] PHP Warning:  include(leave_type_edit.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[15-Nov-2016 18:50:01 Africa/Harare] PHP Warning:  include(leave_type_edit.php): failed to open stream: No such file or directory in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165
+[15-Nov-2016 18:50:01 Africa/Harare] PHP Warning:  include(): Failed opening 'leave_type_edit.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwforgzw/public_html/portal/wwf_dev/index.php on line 165

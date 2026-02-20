@@ -1,0 +1,124 @@
+body {
+	font-family:arial, helvetica, sans-serif;
+	font-size:14px;
+}
+#report {
+	width:800px;
+	margin:0 auto;
+	border: 1px solid #eee;
+	padding: 10px;
+	background:url(example.png);
+}
+table.sample {
+	width:800px;
+	border-collapse: collapse;
+	border: 1px solid #999;
+	margin-bottom: 20px;
+}
+
+table.sample td{
+	border: 1px solid #999;
+	padding: 2px 5px;
+}
+a {
+	background-color: green;
+	text-decoration:none;
+	color:#fff;
+	font-size: 11px;
+	font-weight: bold;
+}
+a:hover{
+	background: #0000f5;
+}
+
+.box {
+	vertical-align:top;
+}
+
+.bld {
+	font-weight: bold;
+}
+
+.itl {
+	font-style: italic;
+}
+
+.head-bg {
+	background-color: #deeebe;
+}
+.ctr {
+	text-align: center;
+}
+
+.und {
+	text-decoration: underline;
+}
+
+
+
+
+.popbox {
+    display: none;
+    position: absolute;
+    z-index: 99999;
+    width: 400px;
+    padding: 10px;
+    background: #eee;/*#EEEFEB;*/
+    color: #000000;
+    border: 1px solid #4D4F53;
+    margin: 0px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(164, 164, 164, 1);
+    box-shadow: 0px 0px 5px 0px rgba(164, 164, 164, 1);
+    /* Safari 3-4, iOS 1-3.2, Android 1.6- */
+    -webkit-border-radius: 10px; 
+
+	/* Firefox 1-3.6 */
+	-moz-border-radius: 10px; 
+  
+	/* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+	border-radius: 10px;
+    
+}
+.popbox h2
+{
+    background-color: #4D4F53;
+    color:  #E3E5DD;
+    font-size: 14px;
+    display: block;
+    width: 100%;
+    margin: -10px 0px 8px -10px;
+    padding: 5px 10px;
+    
+    /* Safari 3-4, iOS 1-3.2, Android 1.6- */
+    -webkit-border-top-left-radius: 10px; 
+    -webkit-border-top-left-radius: 10px;
+    
+	/* Firefox 1-3.6 */
+	-moz-border-top-left-radius: 10px; 
+	-moz-border-top-right-radius: 10px;
+	  
+	/* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+	border-top-left-radius: 10px; 
+	border-top-right-radius: 10px;	   
+}	
+
+.circle {
+ 	/* Safari 3-4, iOS 1-3.2, Android 1.6- */
+  	-webkit-border-radius: 50%; 
+
+	/* Firefox 1-3.6 */
+	-moz-border-radius: 50%; 
+  
+	/* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+	border-radius: 50%;
+  
+	padding: 5px 9px;
+	position: relative;
+	z-index: 0;
+  
+   
+}	
+
+.dbl {
+	padding: 5px;
+}
