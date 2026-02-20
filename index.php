@@ -1,5 +1,5 @@
 <?php
-ini_set('display_errors', 0);
+ini_set('display_errors', 1);
 error_reporting(E_ERROR | E_WARNING | E_PARSE); 
 include_once "core/db.php"; 
 session_start(); // Use session variable on this page. This function must put on the top of page.
